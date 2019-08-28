@@ -1,1 +1,0 @@
-Personal portfolio created with create-react-app.
